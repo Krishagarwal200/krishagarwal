@@ -13,7 +13,7 @@ int main()
     gets(a.name);
     scanf("%d",&a.salary);
     scanf("%d",&a.age);
-    printf("enter name,salary,age of 1st");
+    printf("enter name,salary,age of 2nd");
     
     gets(b.name);
     
